@@ -1,0 +1,20 @@
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\bin\Debug\Patrick's Pizza Barn.exe.config
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\bin\Debug\Patrick's Pizza Barn.exe
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\bin\Debug\Patrick's Pizza Barn.pdb
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick_s_Pizza_Barn.PatricksPizzaBarnForm.resources
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick_s_Pizza_Barn.Properties.Resources.resources
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.exe
+C:\Users\patri\source\repos\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.pdb
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\bin\Debug\Patrick's Pizza Barn.exe.config
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\bin\Debug\Patrick's Pizza Barn.exe
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\bin\Debug\Patrick's Pizza Barn.pdb
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.csprojAssemblyReference.cache
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick_s_Pizza_Barn.PatricksPizzaBarnForm.resources
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick_s_Pizza_Barn.Properties.Resources.resources
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.csproj.GenerateResource.cache
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.csproj.CoreCompileInputs.cache
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.exe
+D:\Documents\c#_Projects\Patrick's Pizza Barn\Patrick's Pizza Barn\obj\Debug\Patrick's Pizza Barn.pdb
